@@ -319,7 +319,7 @@
       "key": 33,
       "hidden": false,
       "Properties": {
-        "Mode": "Normal",
+        "Mode": "FastTelly",
         "Rotations": "Normal",
         "Search Algorithm": "Secondary",
         "Min Rotation Speed": 10.0,
